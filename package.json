@@ -1,0 +1,23 @@
+{
+  "name": "tiptap_vuetify",
+  "version": "1.0.0",
+  "description": "Vuetify implementation of a rich text editor, using TipTap as base.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "tiptap",
+    "richtexteditor"
+  ],
+  "author": "OamrEspaña",
+  "license": "MIT",
+  "dependencies": {
+    "fontawesome": "^5.6.3",
+    "tiptap": "^1.32.2",
+    "tiptap-extensions": "^1.35.2",
+    "vue": "^2.6.12",
+    "vuetify": "^2.4.11"
+  }
+}
